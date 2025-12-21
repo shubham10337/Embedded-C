@@ -292,7 +292,7 @@ Rule reinforced in the course:
 
 ---
 
-## 15. Key Takeaways (FastBit Revision Style)
+## 15. Key Takeaways
 
 * Data types define memory usage
 * Signed vs unsigned matters
