@@ -265,7 +265,7 @@ These bugs are:
 
 ---
 
-## 15. Key Takeaways (FastBit Revision Style)
+## 15. Key Takeaways
 
 * Pointer arithmetic depends on pointer type
 * `p + 1` moves by `sizeof(type)`
